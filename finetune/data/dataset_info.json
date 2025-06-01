@@ -1,0 +1,76 @@
+{
+  "llama-2-7b-pref-dataset": {
+    "file_name": "llama-2-7b-pref-dataset.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "llama-2-7b-pref-phs-dataset": {
+    "file_name": "llama-2-7b-pref-phs-dataset.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "llama-2-7b-pref-fhs-dataset": {
+    "file_name": "llama-2-7b-pref-fhs-dataset.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "llama-3-8b-pref-dataset": {
+    "file_name": "llama-3-8b-pref-dataset.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "llama-3-8b-pref-phs-dataset": {
+    "file_name": "llama-3-8b-pref-phs-dataset.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "llama-3-8b-pref-fhs-dataset": {
+    "file_name": "llama-3-8b-pref-fhs-dataset.json",
+    "ranking": true,
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations",
+      "chosen": "chosen",
+      "rejected": "rejected"
+    }
+  },
+  "llama-2-7b-ppo-dataset": {
+    "file_name": "llama-2-7b-ppo-dataset.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  },
+  "llama-3-8b-ppo-dataset": {
+    "file_name": "llama-3-8b-ppo-dataset.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "conversations"
+    }
+  }
+}
