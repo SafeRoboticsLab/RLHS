@@ -26,7 +26,7 @@ pip install -r requirements.txt
 python main.py --ai_model llama-2-7b llama-3-8b --human_model llama-3.1-70b --index 1
 ```
 
-## Combine and convert the data into the appropriate preference data format (Optional)
+## Combine and convert the data (Optional)
 
 ```
 python comb_data.py
