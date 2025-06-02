@@ -37,8 +37,6 @@ python comb_data.py
 ```
 cd finetune
 llamafactory-cli train rlhf_examples/train_lora/llama2_7b/base/dpo/llama2_lora_dpo_bs_8.yaml
-
-python train.py 
 ```
 
 ### Merge
