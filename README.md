@@ -1,6 +1,8 @@
 <div align="center">
 
 <h2> RLHS: Mitigating Misalignment in RLHF with Hindsight Simulation </h2>
+
+🌐 [Project Page](https://rl-hindsight.github.io/) | 📄 [Paper](https://arxiv.org/abs/2501.08617) | 🤗 [Hugging Face](https://huggingface.co/kaiquliang)
         
 </div>
 
